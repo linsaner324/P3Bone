@@ -112,7 +112,7 @@ The original radiographs are subject to the terms of their respective dataset
 providers. The authors' curated annotations, masks, patient-level manifests and
 derived study data are **not publicly distributed at this stage because the
 research is ongoing**. Researchers interested in these materials may contact
-**Shihao Qin, 1310434684@qq.com**, to discuss access. Availability is subject to
+**1310434684@qq.com**, to discuss access. Availability is subject to
 author review and applicable permissions; contacting the authors does not
 guarantee access. No clinical or annotation data are included in this release.
 
