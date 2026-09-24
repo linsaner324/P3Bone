@@ -85,7 +85,6 @@ released hashes. This is one fixed seed, not a multi-seed ensemble.
 - [Full preparation and training commands](docs/PIPELINE.md)
 - [Manifests, feature channels and evaluation geometry](docs/DATA_FORMAT.md)
 - [Validation performed for this release](docs/VALIDATION.md)
-- [GitHub 发布操作说明（中文）](docs/GITHUB_PUBLISH_ZH.md)
 
 The final network trains on exported targets for 50 epochs, batch size 6,
 AdamW learning rate 0.0003, weight decay 0.0001, and positive class weight 1.
